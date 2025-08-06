@@ -37,4 +37,5 @@ This project is best suited for beginners or students new to pulsar astrophysics
 
 If you find this material helpful or have questions, feel free to reach out:  
 Prof. Avinash Deshpande (desh@iitk.ac.in)
+
 Drishty Jadia (dbjadia05@gmail.com)

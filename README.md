@@ -23,10 +23,7 @@ This short-term academic project was conducted as part of a graduate-level cours
 
 ## Resources Provided
 
-- Sample pulsar data 
-- Jupyter notebooks for plotting time series and pulse profiles
-- Notes on basic preprocessing steps
-- Reference material for those interested in deeper analysis
+- Link to the resources - [VELA_DATA](https://drive.google.com/drive/folders/1TA8C8ygCeNoEVodSt1by5nqjBKxi6Usv?usp=drive_link)
 
 ---
 
@@ -40,3 +37,5 @@ This project is best suited for beginners or students new to pulsar astrophysics
 
 If you find this material helpful or have questions, feel free to reach out:  
 dbjadia05@gmail.com
+
+Prof. Avinash Deshpande (desh@iitk.ac.in)
